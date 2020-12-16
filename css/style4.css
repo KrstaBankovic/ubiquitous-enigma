@@ -1,0 +1,13 @@
+h1 {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.rebus {
+  max-height: 200px;
+  padding: 20px;
+}
+
+.rebus img {
+  border: 10px solid #b8a345;
+}

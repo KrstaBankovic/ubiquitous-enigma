@@ -1,0 +1,53 @@
+h1 {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.p1 {
+    max-width: 1200px;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.podaci {
+    display: inline-block;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 370px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.centar2 {
+    display: inline-block;
+    text-align: justify;
+}
+
+/*ul li{
+
+    text-align:justify;
+
+}*/
+
+.centar {
+    margin-left: 40%;
+    padding-top: 20px;
+    text-align: center;
+    border: 10px;
+    width: 20%;
+    border-style: dotted;
+    border-color: coral;
+    background-color: darkgrey;
+}
+
+.adresa {
+    float: right;
+}
+
+.konTel {
+    float: right;
+}
+
+.bcb {
+    float: right;
+}
